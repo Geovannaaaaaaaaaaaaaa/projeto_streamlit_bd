@@ -1,1 +1,3 @@
-# projeto_streamlit_bd
+pandas
+plotly
+streamlit
