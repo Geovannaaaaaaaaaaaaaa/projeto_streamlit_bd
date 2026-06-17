@@ -9,7 +9,7 @@ client = storage.Client.from_service_account_info(
 )
 
 bucket_nome = "bucket_copa_geovannaa"
-arquivo = "imagem_jogadores/bra_9.jpg"
+arquivo = "imagem_jogadores/bra_10.jpg"
 
 bucket = client.bucket(bucket_nome)
 blob = bucket.blob(arquivo)
